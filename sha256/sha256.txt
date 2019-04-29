@@ -1,0 +1,3 @@
+sha256.encode("sha256_is_too_XXXX")==6348306011488e60120a6b99fbbb13f09336235fb790f8f904e97846b1418e48
+XXXX is ?
+flag{sha256_is_too_XXXX}
